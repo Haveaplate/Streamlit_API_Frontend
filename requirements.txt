@@ -1,6 +1,4 @@
-re
 requests
-csv
 pandas
 langchain-ollama
 langchain-core
