@@ -1,1 +1,9 @@
-
+re
+requests
+csv
+pandas
+langchain-ollama
+langchain-core
+selenium
+beautifulsoup4
+streamlit
